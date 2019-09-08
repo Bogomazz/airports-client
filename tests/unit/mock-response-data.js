@@ -1,4 +1,4 @@
-export const testResponseData = {
+export const mockResponseData = {
   "data": [
     {
       "id": 1,
