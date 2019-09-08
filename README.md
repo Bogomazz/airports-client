@@ -1,5 +1,9 @@
 # airport-client
 
+## Application available on
+```
+http://34.245.192.86/
+```
 ## Project setup
 ```
 npm install
